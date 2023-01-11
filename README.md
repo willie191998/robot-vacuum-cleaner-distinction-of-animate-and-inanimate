@@ -1,0 +1,2 @@
+# robot vacuum cleaner distinction of animate and inanimate
+ This code is intended to be uploaded to an Arduino UNO microcontroller. the project is to buikd a robot vacuum that is capable moving in a room following the S-shape navigation algorithm and it should be able to detect human motion within its path. The sensors used are; PIR sensor, limit switches. The  actuator used is two TT DC motorsand the vacuum and sweeper motors. Other components used are; a buzzer, a LED.
